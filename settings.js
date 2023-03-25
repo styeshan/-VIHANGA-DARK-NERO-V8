@@ -18,9 +18,9 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = '𝚝𝚛𝚞𝚎' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'on' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0716124952'] //ur owner number
+global.alivemsg = '_Hey Bro My Bot Is Alive Now 👻🌺🥀_     *Type { .menu } To Get More Commands      *❮🧸͚̩̆̆̆̆̆⊱─⃟🍒♥⃝๛⃞⃯💝අ̶හි̲̅මි̶ වී̲̅⃝⃡ම̶̷͟🧸 දු̲̅ක̶ක̶්̡̅   ̶න̶ම̶්ꪶ𖣔ꫂ අ̶ත̲̅හැ̲̅රි̶̏ම̶̷᭳͟ ⃝  ̲̅ලො̲̅කු̶̲̅ම̲̅⃞🔝🧸 ස̲̅තු̶̲̅ට̶̳̳යි̶̏๛⃞⃯♥🐹❮🧸͚̩̆̆̆̆̆⊱─⃟🍒    ```By Vihanga MD 😙♥️```'
+global.alivepic = 'https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg '
+global.owner = ['0761105459'] //ur owner number
 global.ownername = "𝚅𝙸𝙷𝙰𝙽𝙶𝙰_𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 🖤" //ur owner name
 global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
@@ -28,9 +28,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = "UG4wUTBEQzk=" //session Id
-global.ownernomer = "94716124952" //ur number
+global.ownernomer = "94761105459" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
+global.premium = ['94761105459'] //ur premium number
 global.botname = '𝚅𝙸𝙷𝙰𝙽𝙶𝙰_𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻_𝙳𝙰𝚁𝙺_𝙽𝙴𝚁𝙾 𝚅8 💞' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
